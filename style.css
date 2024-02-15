@@ -1,0 +1,89 @@
+#title {
+    font-family: Rubik Doodle Shadow;
+    font-size: 70px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+#quickfacts {
+    border: 1px solid #c8ccd1;
+    background-color: #f8f9fa;
+    text-align: center;
+    font-size: 17px;
+}
+
+#textoverview {
+    background-color: blanchedalmond;
+    font-family: Times;
+}
+
+#myCarousel {
+    background-color: aquamarine;
+}
+
+#textoverviewpara {
+    margin-left: 20px;
+}
+
+#linkmenu {
+    margin: 2px;
+    font-size: 20px;
+    white-space: pre;
+}
+
+#history {
+    font-size: 20px;
+    background-color: rgb(197, 35, 35);
+    color: white;
+}
+
+#trivia {
+    font-size: 20px;
+    background-color: rgb(224, 224, 121);
+}
+
+
+
+.title {
+    font-family: Rubik Doodle Shadow;
+    font-size: 30px;
+}
+
+#tourism {
+    background-color: aquamarine;
+}
+
+#fullinfo {
+    background-color: rgb(255, 229, 196);
+    text-align: center;
+    list-style-position: inside;
+    font-family: Oswald;
+    font-size: 20px;
+}
+
+#visainfo {
+    width: 1450px;
+    height: 20px;
+
+}
+
+.tableheading {
+    border: 1px solid black;
+    font-size: 70px;
+    font-family: Rubik Doodle Shadow;
+}
+#novariacoa{
+    border: 1px solid black;
+}
+#udscoaimg{
+    width: 100px;
+}
+#udscoa{
+    border: 1px solid black;
+}
+.visatabletrs{
+    font-family: times;
+}
